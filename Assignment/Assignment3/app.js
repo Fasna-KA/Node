@@ -1,3 +1,5 @@
+//Create two middlewares one should be applicable to all the routes present in backend application is containing and other should be applicable to any 2 specific routes 
+
 const express =require("express")
 const app = express()
 
